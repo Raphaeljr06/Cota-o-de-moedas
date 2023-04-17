@@ -1,2 +1,2 @@
-# Cota-o-de-moedas
+# Cotacao de moedas
 Código que faz a conversão de qualquer moeda via api
